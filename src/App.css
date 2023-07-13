@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiko:wght@400;600;700&family=Lato:wght@300&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+*{
+  font-family: "Montserrat", sans-serif;
+  /* transition: all .5s; */
+}
+.input{
+  position: relative;
+  width: 25px;
+  height: 25px;
+  accent-color: #8839ea;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+
